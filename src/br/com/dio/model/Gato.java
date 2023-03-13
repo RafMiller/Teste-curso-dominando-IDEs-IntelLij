@@ -13,6 +13,7 @@ public class Gato {
         this.nome = nome;
         this.cor = cor;
         this.idade = idade;
+
     }
 
     public String getNome() {
